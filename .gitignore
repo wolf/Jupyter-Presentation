@@ -1,4 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
+.idea/
 .python-version
 Jupyter-Presentation.slides.html
+Jupyter-Presentation.html
+Jupyter-Presentation.md
